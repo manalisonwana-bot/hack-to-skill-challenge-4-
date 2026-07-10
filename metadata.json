@@ -1,0 +1,6 @@
+{
+  "name": "FIFA 2026 Stadium Operations & Experience Hub",
+  "description": "An interactive, GenAI-powered platform enhancing stadium operations and the fan experience for the FIFA World Cup 2026, featuring multilingual assistance, real-time crowd dispatch, and incident decision-support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
